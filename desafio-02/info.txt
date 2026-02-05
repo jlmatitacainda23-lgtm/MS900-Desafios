@@ -1,0 +1,9 @@
+Neste desafio, foi atribuída a função de Administrador de Utilizadores (User Administrator) ao utilizador Carlos Manuel Silva.
+
+Ações realizadas:
+
+Acesso ao Centro de Administração do Microsoft 365.
+
+Seleção do utilizador Carlos Manuel Silva.
+
+Configuração de "Gerir funções" para permitir acesso ao centro de administração com a função específica de Administrador de Utilizadores.
