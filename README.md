@@ -15,11 +15,11 @@ O objetivo principal foi configurar e gerir um ambiente organizacional seguro e 
 
 ##  Estrutura do Repositório
 O projeto está dividido em pastas que representam cada etapa crítica da configuração:
-* `/desafio-01/`: Criação de Utilizadores.
-* `/desafio-03/`: Criação de Grupos.
-* `/desafio-04/`: Gestão de Membros.
-* `/desafio-05/`: Licenciamento por Grupo.
-* `/desafio-06/`: Gestão do Ciclo de Vida (Bloqueio e Eliminação).
+* `desafio-01`: Criação de Utilizadores.
+* `desafio-03`: Criação de Grupos.
+* `desafio-04`: Gestão de Membros.
+* `desafio-05`: Licenciamento por Grupo.
+* `desafio-06`: Gestão do Ciclo de Vida (Bloqueio e Eliminação).
 
 ##  Tecnologias Utilizadas
 * Centro de Administração do Microsoft 365.
