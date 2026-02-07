@@ -24,4 +24,4 @@ O projeto está dividido em pastas que representam cada etapa crítica da config
 ##  Tecnologias Utilizadas
 * Centro de Administração do Microsoft 365.
 * Microsoft Entra ID (Azure AD).
-* Gestão de Licenciamento M365.<img width="1366" height="678" alt="image" src="https://github.com/user-attachments/assets/12a3a815-ff1c-4c31-87c7-9b32ecce153d" />
+* Gestão de Licenciamento M365.
